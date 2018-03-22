@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B36420620637986007A9FA3 /* AddItemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B36420520637986007A9FA3 /* AddItemViewController.swift */; };
 		3B43515E2056634400323CC8 /* ChecklistItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B43515D2056634400323CC8 /* ChecklistItem.swift */; };
 		3B47730B2022F02700AE6B3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B47730A2022F02700AE6B3A /* AppDelegate.swift */; };
 		3B47730D2022F02700AE6B3A /* ChecklistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B47730C2022F02700AE6B3A /* ChecklistViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3B36420520637986007A9FA3 /* AddItemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddItemViewController.swift; sourceTree = "<group>"; };
 		3B43515D2056634400323CC8 /* ChecklistItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChecklistItem.swift; sourceTree = "<group>"; };
 		3B4773072022F02700AE6B3A /* Checklists.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Checklists.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B47730A2022F02700AE6B3A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				3B4773132022F02700AE6B3A /* LaunchScreen.storyboard */,
 				3B4773162022F02700AE6B3A /* Info.plist */,
 				3B43515D2056634400323CC8 /* ChecklistItem.swift */,
+				3B36420520637986007A9FA3 /* AddItemViewController.swift */,
 			);
 			path = Checklists;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B47730D2022F02700AE6B3A /* ChecklistViewController.swift in Sources */,
+				3B36420620637986007A9FA3 /* AddItemViewController.swift in Sources */,
 				3B43515E2056634400323CC8 /* ChecklistItem.swift in Sources */,
 				3B47730B2022F02700AE6B3A /* AppDelegate.swift in Sources */,
 			);
